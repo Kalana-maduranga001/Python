@@ -5,7 +5,7 @@ import random
 import sys
 
 pygame.init()
-WIDTH, HEIGHT = 800, 500
+WIDTH, HEIGHT = 1024, 768
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Bouncing Ball")
 
