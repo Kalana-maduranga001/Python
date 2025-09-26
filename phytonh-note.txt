@@ -1,0 +1,46 @@
+what is ide ?
+Code writing, testing and debugging's helping tool.
+
+my_var = 10
+
+print(my_var)
+print(type(my_var))
+
+//dynamically type language
+
+api veriable ekakata type eka denna oneh na type eka Auto magically therum gannawa 
+
+newVariable = "Jhon" (legal) , not good 
+new_variable = "Jhon" (legal)  ,good
+_new_variable = "Jhon" (legal) ,good
+newVariable = "Jhon" (legal) ,not good
+NEW_VARIABLE = "Jhon" (legal) ,not good
+newvariable  = "Jhon"  (legal) ,not good
+2new_variable = "Jhon" (illegal) , not good
+new-variable = "Jhon" (illegal) , not good
+new variable  = "Jhon" (illegal) , not good
+->variable ekak sapurnayemma simple wenna oneh
+
+=======================
+numerical data science 
+=======================
+
+int  - holds singed integers 
+float - hold floating decimal
+complex - hold complex numbers
+
+==============
+python casting 
+==============
+
+a = 10 <--- integer
+b = float(a)
+
+why we use array
+>store that data collation -> list, tuple , dictionary (Python only)
+>store multiple data
+don't include python Array that have only list , tuple , dictionary 
+
+
+
+
