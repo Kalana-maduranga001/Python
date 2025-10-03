@@ -41,6 +41,17 @@ why we use array
 >store multiple data
 don't include python Array that have only list , tuple , dictionary 
 
+python List is changeable that has ability add , remove and modifying 
+
+in big arrays you can easily get the last element by using -1 index
 
 
+32, "apple", "Grapes", "rabbit", "rat"
 
+ascending alphanumeric
+
+[0-9] - 1
+[A-Z] - 2
+[a-z] - 3
+
+list join - combining two list
