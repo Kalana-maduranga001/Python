@@ -19,11 +19,21 @@
 
 # ======================================
 
-from my_Calcutator.addition import add
-from my_Calcutator.substraction import substraction
+# from my_Calcutator.addition import add
+# from my_Calcutator.substraction import substraction
 
-res_add = add(5, 3)
-print(res_add)
+# res_add = add(5, 3)
+# print(res_add)
 
-res_subtract = substraction(5, 3)
-print(res_subtract)
+# res_subtract = substraction(5, 3)
+# print(res_subtract)
+
+# ======================================
+
+from my_Calcutator import add, substraction
+
+result_add = add(5 , 4)
+print(result_add)
+
+result_sub = substraction(8 , 1)
+print(result_sub)
