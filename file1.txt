@@ -1,0 +1,4 @@
+file_1 = open("my_file.txt" , "r", encoding="utf-8")
+context = file_1.read()
+print(context)
+file_1.close()
